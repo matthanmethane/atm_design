@@ -1,6 +1,5 @@
 import hashlib
 import requests
-import json
 
 class CardReader:
     '''
